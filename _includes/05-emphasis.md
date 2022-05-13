@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* _Your are my reminder_
+* _Play it like a fighter_
+* _Im not outsider_
+* *Im a peaky blinder* ⏬
